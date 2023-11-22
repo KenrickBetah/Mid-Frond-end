@@ -1,4 +1,4 @@
-const Awards = () => {
+const Penghargaan = () => {
   return (
     <div>
       <section className="resume-section" id="awards">
@@ -62,4 +62,4 @@ const Awards = () => {
   );
 };
 
-export default Awards;
+export default Penghargaan;

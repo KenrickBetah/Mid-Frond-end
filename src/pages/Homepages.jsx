@@ -1,10 +1,11 @@
 import Headers from "../components/Header";
 import About from "../components/About";
-import Awards from "../components/awards";
 import Education from "../components/Education";
 import Experience from "../components/Experience";
 import Interests from "../components/Interests";
 import Skills from "../components/Skills";
+import Penghargaan from "../components/Penghargaan";
+
 const Homepages = () => {
   return (
     <div>
@@ -14,7 +15,7 @@ const Homepages = () => {
       <Education />
       <Skills />
       <Interests />
-      <Awards />
+      <Penghargaan />
     </div>
   );
 };
