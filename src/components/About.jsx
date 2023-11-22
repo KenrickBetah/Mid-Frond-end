@@ -12,9 +12,11 @@ const About = () => {
             <a href="mailto:name@email.com">S2200451@student.unklab.ac.id</a>
           </div>
           <p className="lead mb-5">
-            Saya adalah mahasiswa Universitas Klabat, Fakultas ilmu komputer
-            jurusan Informatika, dan website ini saya buat untuk nilai mid
-            semester
+            Experienced Technical Lead with a demonstrated history of working in
+            the logistics and e-commerce industry. Skilled in Angular, ReactJS,
+            MongoDB, Node.js and Express.js. To seek a challenging position in a
+            company offering a motivating and vibrant work environment, on the
+            basis of my knowledge, fast learning and creative skills.
           </p>
           <div className="social-icons">
             <a className="social-icon" href="#!">
