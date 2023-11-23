@@ -9,7 +9,7 @@ const Header = () => {
         <span className="d-none d-lg-block">
           <img
             className="img-fluid img-profile rounded-circle mx-auto mb-2"
-            src="public/img/wew.jpg"
+            src="/img/wew.jpg"
             alt="..."
           />
         </span>
